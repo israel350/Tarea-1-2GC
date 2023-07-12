@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <center><title> Tarea 1 2GC</title>
+</head>
+ <body bgcolor="blue navy">
+    <font color="green"><i><h1>El Nido</h1></font>
+	<b><p>[Poema Completo]</p>
+	<font color="white">Alfredo Espino</h3></font>
+	<br><hr><h4>
+	<center><font size=4>Es porque un pajarito de la montaña ha echo,
+	<br>en el hueco de un arbol, su nido matinal,
+	<br>que el arbol amanece con muscia en el pecho,
+	<br>como que si tuviera corazon musical.
+	<br><br>
+	<br>Si el dulce pajarito por entre el hueco asoma,
+	<br>para beber rocio, para beber aroma,
+	<br>el arbol de la sierra me da la sensacion
+	<br>de que se le ha salido, cantando, el corazon.
+	<br><br>
+    <center><img src="nido-vacio.jpg" width="250" height="190"></center>
+    <img src="lindo.png" width="250" height="190" align="right"> 
+    <img src="lindo.png" width="250" height="190" align="left">
+</html>
+</body>
